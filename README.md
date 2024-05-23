@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+most language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c19sugeta&layout=donut)](https://github.com/c19sugeta/github-readme-stats)
+
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c19sugeta&show_icons=true&theme=radical)
